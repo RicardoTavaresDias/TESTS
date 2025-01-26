@@ -3,7 +3,7 @@
   <img alt="Logo - Rocketseat" src="./github/logo.png" width="200px" />
 </p>
 
-<h1 align="center"> Testes Automatizados </h1>
+<h1 align="center"> Testes Automatizados  </h1>
 
 <p align="center">
   <img alt="Testes Automatizados" src="./github/jest.png" width="100%">
